@@ -1,2 +1,2 @@
 # AngularJS-Sandbox
-Ongoing testing of apps created with AngularJS framework
+Repo for app development and testing with AngularJS framework
